@@ -1,4 +1,6 @@
 tracegl
 =======
 
-traceGL support repository
+The trace.gl project is now open source, in another repository:
+
+https://github.com/traceglMPL/tracegl
